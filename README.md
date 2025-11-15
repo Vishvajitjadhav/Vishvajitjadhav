@@ -15,17 +15,14 @@
 
 ### 🧰 Tech Toolbox
 
-**Languages:**  
-`Java` `Python` `JavaScript`
+| Category | Tools |
+|---------|--------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Backend** | ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white) ![REST](https://img.shields.io/badge/REST-000?logo=swagger&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-00f?logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white) |
 
-**Backend & Frameworks:**  
-`Spring Boot` `REST APIs` `Hibernate` `Microservices` `Django`
-
-**Frontend & UI:**  
-`HTML` `CSS` `JavaScript` `React (basic)`
-
-**Database & Tools:**  
-`MySQL` `Git` `Docker` `Postman` `Jenkins` `VS Code` `IntelliJ`
 
 ---
 
