@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I build real-world applications using **Java**, **Spring Boot**, **REST APIs**, **MySQL**, and **AI APIs**  
-- 🌱 Currently learning: **DSA using Java + Striver Roadmap**  
+- 🌱 Strengthening expertise in DSA using Java and upskilling in DevOps fundamentals.  
 - 💡 Love working on: Backend Systems, AI-based Applications & Scalable API-driven Solutions  
 - 🎯 Career goal: **Software Engineer + Backend Developer**  
 - 📫 Reach me: **vishvajitjadhav01@gmail.com**
@@ -34,6 +34,9 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
+| Yatrik – Hotel Booking & Management System | Java + Spring Boot + JPA + PostgreSQL | Airbnb-inspired backend with booking workflows, availability checks, RBAC (USER/HOST), pagination & exception handling |
+| Zaminwala – Real Estate Listing Platform | Java + Spring Boot + MySQL + JWT | Backend microservices for property listings & user management with secure authentication and scalable API design |
+| Vehicle Sensor Anomaly Detection System | Python + ML + FastAPI + Docker | End-to-end anomaly detection pipeline with model training, inference API & containerized deployment |
 | AI Storyteller | Python + Streamlit + Gemini | Image-based AI storytelling & voice narration |
 | AI Interview Mentor | Java + Spring Boot + React + MySQL + Gemini | AI mock interview + resume analyzer |
 | eTickets MVC App | .NET + MVC + SQL | Ticket booking platform with CRUD & auth |
