@@ -18,7 +18,7 @@
 `Java` `Python` `JavaScript`
 
 **Backend & Frameworks:**  
-`Spring Boot` `REST APIs` `Hibernate` `Microservices` `Django`
+`Spring Boot` `REST APIs` `Hibernate` `Microservices` 
 
 **Frontend & UI:**  
 `HTML` `CSS` `JavaScript` `React`
