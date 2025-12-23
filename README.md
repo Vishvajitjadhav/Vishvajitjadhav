@@ -1,5 +1,5 @@
 <!-- Profile Header Animation -->
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2AFFD1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vishvajit+Jadhav!;Software+Engineer+%7C+Java+Backend+Developer;AI+%2F+Full-Stack+Project+Builder;Always+Learning+%F0%9F%8E%93">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=2AFFD1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vishvajit+Jadhav!;Software+Engineer+%7C+Java+Backend+Developer;AI+%2F+Full-Stack+Project+Builder;Always+Exploring+%F0%9F%8E%93">
 
 ---
 
