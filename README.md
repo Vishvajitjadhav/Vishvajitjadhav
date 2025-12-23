@@ -21,7 +21,7 @@
 `Spring Boot` `REST APIs` `Hibernate` `Microservices` `Django`
 
 **Frontend & UI:**  
-`HTML` `CSS` `JavaScript` `React (basic)`
+`HTML` `CSS` `JavaScript` `React`
 
 **Database & Tools:**  
 `MySQL` `Git` `Docker` `Postman` `Jenkins` `VS Code` `IntelliJ`
@@ -38,9 +38,8 @@
 | Zaminwala – Real Estate Listing Platform | Java + Spring Boot + MySQL + JWT | Backend microservices for property listings & user management with secure authentication and scalable API design |
 | Vehicle Sensor Anomaly Detection System | Python + ML + FastAPI + Docker | End-to-end anomaly detection pipeline with model training, inference API & containerized deployment |
 | AI Storyteller | Python + Streamlit + Gemini | Image-based AI storytelling & voice narration |
-| AI Interview Mentor | Java + Spring Boot + React + MySQL + Gemini | AI mock interview + resume analyzer |
-| eTickets MVC App | .NET + MVC + SQL | Ticket booking platform with CRUD & auth |
-| Portfolio Website | HTML + CSS + JS | Personal portfolio & professional identity |
+| eTickets MVC App | .NET core + MVC + SQL | Ticket booking platform with CRUD & auth |
+| Portfolio Website | HTML + CSS + JS + React | Personal portfolio & professional identity |
 
 ➡ View all repos → [Click Here](https://github.com/Vishvajitjadhav?tab=repositories)
 
@@ -52,14 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Vishvajitjadhav&show_icons=true&theme=tokyonight" height="160" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-### 🔥 Current Learning Focus
-📌 DSA in Java
-📌 Striver Sheet
-📌 Become Fullstack Developer
-
 
 ---
 
