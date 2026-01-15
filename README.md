@@ -15,16 +15,16 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `JavaScript`
+`Java` `Python` `C#` `JavaScript`
 
 **Backend & Frameworks:**  
-`Spring Boot` `REST APIs` `Hibernate` `Microservices` 
+`Spring Boot` `REST APIs` `JPA` `Hibernate` `Microservices` 
 
 **Frontend & UI:**  
 `HTML` `CSS` `JavaScript` `React`
 
 **Database & Tools:**  
-`MySQL` `Git` `Docker` `Postman` `Jenkins` `VS Code` `IntelliJ`
+`MySQL` `PostgreSQL` `Git` `Docker` `Postman` `Jenkins` `VS Code` `IntelliJ`
 
 
 
