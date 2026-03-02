@@ -8,7 +8,7 @@
 - 🔭 I build real-world applications using **Java**, **Spring Boot**, **REST APIs**, **MySQL**, and **AI APIs**  
 - 🌱 Strengthening expertise in DSA using Java and upskilling in DevOps fundamentals.  
 - 💡 Love working on: Backend Systems, AI-based Applications & Scalable API-driven Solutions  
-- 🎯 Career goal: **Software Engineer + Backend Developer**  
+- 🎯 Career goal: **Software Engineer + Full-Stack Developer**  
 - 📫 Reach me: **vishvajitjadhav01@gmail.com**
 
 ---
@@ -48,8 +48,8 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vishvajitjadhav&show_icons=true&theme=tokyonight" height="160" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishvajitjadhav&show_icons=true&theme=tokyonight" height="160" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvajitjadhav&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
