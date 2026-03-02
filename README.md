@@ -48,8 +48,8 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishvajitjadhav&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvajitjadhav&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats-2bp61g3ty-vishujadhav4178-9624s-projects.vercel.app/api?username=vishvajitjadhav&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats-2bp61g3ty-vishujadhav4178-9624s-projects.vercel.app/api/top-langs/?username=vishvajitjadhav&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
 </p>
 
 ---
