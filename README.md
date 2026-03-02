@@ -48,8 +48,8 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishvajitjadhav&show_icons=true&theme=tokyonight" height="160" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvajitjadhav&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vishvajitjadhav&show_icons=true&theme=tokyonight" height="160" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
