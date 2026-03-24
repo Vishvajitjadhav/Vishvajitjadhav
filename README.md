@@ -35,6 +35,7 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | Yatrik – Hotel Booking & Management System | Java + Spring Boot + JPA + PostgreSQL | Airbnb-inspired backend with booking workflows, availability checks, RBAC (USER/HOST), pagination & exception handling |
+| Ai Interview Copilot | Java + Spring Boot + JPA + React + LLM(groq) | An AI-powered interview preparation platform that generates personalized learning roadmaps based on user resume, target company, role, and available preparation time |
 | Zaminwala – Real Estate Listing Platform | Java + Spring Boot + MySQL + JWT | Backend microservices for property listings & user management with secure authentication and scalable API design |
 | Vehicle Sensor Anomaly Detection System | Python + ML + FastAPI + Docker | End-to-end anomaly detection pipeline with model training, inference API & containerized deployment |
 | AI Storyteller | Python + Streamlit + Gemini | Image-based AI storytelling & voice narration |
