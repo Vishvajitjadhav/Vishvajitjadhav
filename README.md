@@ -4,7 +4,7 @@
 
 **Software Engineer** · Java Backend & AI Engineering
 
-<em>I build backend systems that stay correct under heavy load — and AI features that are actually production-ready.</em>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2AFFD1&center=true&vCenter=true&width=600&lines=I+build+backend+systems+that+stay+correct+under+load;I+ship+AI+features+that+are+production+ready;Spring+Boot+%7C+LLM%2FRAG+%7C+Scalable+APIs" alt="typing" />
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ### What I do
 
-I turn complex requirements into clean, reliable software — **Spring Boot backends**, **scalable REST APIs**, and **production LLM/RAG features**. Currently building **Gurucool**, an AI-driven education platform, and a modular **ERP system**.
+I turn complex requirements into clean, reliable software: **Spring Boot backends**, **scalable REST APIs**, and **production LLM/RAG features**. Right now I'm building **Gurucool**, an AI-driven education platform, and a modular **ERP system**.
 
 `Concurrency-safe transactions` · `Idempotent payments` · `LLM orchestration & guardrails` · `RAG + vector search`
 
@@ -42,13 +42,13 @@ I turn complex requirements into clean, reliable software — **Spring Boot back
 ### Featured projects
 
 **[Yatrik — Hotel Booking Platform](https://github.com/Vishvajitjadhav/Yatrik-backend)** &nbsp;·&nbsp; `Java` `Spring Boot` `PostgreSQL` `Stripe`
-> Booking backend built for correctness under load — locking to prevent double-booking, dynamic pricing, and idempotent Stripe payments.
+> Booking backend built for correctness under load, using locking to prevent double-booking, plus dynamic pricing and idempotent Stripe payments.
 
 **[AI Interview Copilot](https://github.com/Vishvajitjadhav/ai-interview-copilot)** &nbsp;·&nbsp; _Live_ &nbsp;·&nbsp; `Spring Boot` `React` `LLM`
 > Full-stack app that generates personalized interview-prep plans using structured, schema-validated LLM workflows.
 
 **[RAG File Search System](https://github.com/Vishvajitjadhav)** &nbsp;·&nbsp; `Python` `Embeddings` `Vector Search`
-> Retrieval pipeline with embedding-based search and grounded LLM answers — far more accurate than keyword search.
+> Retrieval pipeline with embedding-based search and grounded LLM answers that beat keyword search on accuracy.
 
 <sub>➡ [See all repositories](https://github.com/Vishvajitjadhav?tab=repositories)</sub>
 
@@ -56,7 +56,7 @@ I turn complex requirements into clean, reliable software — **Spring Boot back
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats-vj.vercel.app/api?username=Vishvajitjadhav&show_icons=true&count_private=true&hide_border=true&theme=transparent&hide_title=true&card_width=400" />
-<img height="150" src="https://github-readme-stats-vj.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&hide_border=true&theme=transparent&card_width=300" />
+<img height="165" src="https://github-readme-stats-vj.vercel.app/api?username=Vishvajitjadhav&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats-vj.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
