@@ -4,7 +4,7 @@
 
 **Java Backend Developer • AI Engineering • Builder** 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+backend+systems+that+stay+correct+under+load;I+ship+AI+features+that+are+production+ready;Spring+Boot+%7C+LLM%2FRAG+%7C+Scalable+APIs" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=750&lines=I+build+backend+systems+that+stay+correct+under+load;I+ship+AI+features+that+are+production+ready;Spring+Boot+%7C+LLM%2FRAG+%7C+Scalable+APIs" alt="typing" />
 
 </div>
 
