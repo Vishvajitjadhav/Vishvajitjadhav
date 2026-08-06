@@ -10,6 +10,8 @@
 
 I build **reliable, scalable backend systems** with a strong focus on **correctness, performance, and clean APIs**. I enjoy turning messy requirements into software that lasts, shipping production-ready AI features, and learning in public.
 
+I also use AI tools like **Claude** as a serious engineering multiplier — for design, code review, and shipping real features under real constraints. Not vibe coding: disciplined, verified, production development.
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vishvajitjadhav.github.io/MyPortfolio/)
@@ -28,10 +30,10 @@ I build **reliable, scalable backend systems** with a strong focus on **correctn
 <td valign="top" width="33%">
 
 ### ⚙️ Backend Systems
-- Spring Boot services
+- Spring Boot & .NET services
 - Scalable REST APIs
 - Concurrency-safe transactions
-- Idempotent payments
+- Auth & identity (Keycloak)
 
 </td>
 <td valign="top" width="33%">
@@ -62,6 +64,7 @@ I build **reliable, scalable backend systems** with a strong focus on **correctn
 **💻 Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -69,10 +72,18 @@ I build **reliable, scalable backend systems** with a strong focus on **correctn
 **🚀 Frameworks & UI**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**🔐 Auth & Identity**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **🤖 AI / ML**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![LLM / RAG](https://img.shields.io/badge/LLM_%2F_RAG-412991?style=flat-square&logo=openai&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=flat-square&logo=databricks&logoColor=white)
