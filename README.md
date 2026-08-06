@@ -1,12 +1,16 @@
 <div align="center">
 
-# Vishvajit Jadhav
+# 👋 Hi, I'm Vishvajit Jadhav
 
-**Software Engineer** · Java Backend & AI Engineering
+**Java Backend Developer • AI Engineering • Builder** 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2AFFD1&center=true&vCenter=true&width=600&lines=I+build+backend+systems+that+stay+correct+under+load;I+ship+AI+features+that+are+production+ready;Spring+Boot+%7C+LLM%2FRAG+%7C+Scalable+APIs" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=I+build+backend+systems+that+stay+correct+under+load;I+ship+AI+features+that+are+production+ready;Spring+Boot+%7C+LLM%2FRAG+%7C+Scalable+APIs" alt="typing" />
 
-<br>
+</div>
+
+I build **reliable, scalable backend systems** with a strong focus on **correctness, performance, and clean APIs**. I enjoy turning messy requirements into software that lasts, shipping production-ready AI features, and learning in public.
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vishvajitjadhav.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvajit09/)
@@ -17,29 +21,77 @@
 
 ---
 
-### What I do
+## 🧠 What I Work On
 
-I turn complex requirements into clean, reliable software: **Spring Boot backends**, **scalable REST APIs**, and **production LLM/RAG features**. Right now I'm building **Gurucool**, an AI-driven education platform, and a modular **ERP system**.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-`Concurrency-safe transactions` · `Idempotent payments` · `LLM orchestration & guardrails` · `RAG + vector search`
+### ⚙️ Backend Systems
+- Spring Boot services
+- Scalable REST APIs
+- Concurrency-safe transactions
+- Idempotent payments
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI Engineering
+- LLM orchestration
+- RAG + vector search
+- Schema-validated workflows
+- Guardrails & evals
+
+</td>
+<td valign="top" width="33%">
+
+### ☁️ Data & Infra
+- PostgreSQL / MySQL
+- Docker & containers
+- AWS deployments
+- CI/CD automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Tech
+## 🛠️ Tech Stack
+
+**💻 Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🚀 Frameworks & UI**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**🤖 AI / ML**
+
+![LLM / RAG](https://img.shields.io/badge/LLM_%2F_RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4285F4?style=flat-square&logo=databricks&logoColor=white)
+
+**🗄️ Data & Storage**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**⚙️ Tooling & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![LLM / RAG](https://img.shields.io/badge/LLM_%2F_RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### Featured projects
+## 🚀 Featured Projects
 
 **[Yatrik — Hotel Booking Platform](https://github.com/Vishvajitjadhav/Yatrik-backend)** &nbsp;·&nbsp; `Java` `Spring Boot` `PostgreSQL` `Stripe`
 > Booking backend built for correctness under load, using locking to prevent double-booking, plus dynamic pricing and idempotent Stripe payments.
@@ -54,9 +106,10 @@ I turn complex requirements into clean, reliable software: **Spring Boot backend
 
 ---
 
+## 🔥 Git Activity
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-vj.vercel.app/api?username=Vishvajitjadhav&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats-vj.vercel.app/api/top-langs/?username=Vishvajitjadhav&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Vishvajitjadhav&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak stats" />
 
 </div>
