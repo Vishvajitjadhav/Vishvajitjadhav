@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2AFFD1&height=140&section=header&text=Vishvajit%20Jadhav&fontColor=0d1117&fontSize=42&desc=Java%20Backend%20%26%20AI%20Engineering&descSize=16&descAlignY=62" />
+# Vishvajit Jadhav
 
-$\color{#2AFFD1}{\textsf{I build backend systems that stay correct under load — and AI features that ship.}}$
+**Software Engineer** · Java Backend & AI Engineering
+
+<em>I build backend systems that stay correct under heavy load — and AI features that are actually production-ready.</em>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2AFFD1?style=flat-square&logo=vercel&logoColor=black)](https://vishvajitjadhav.github.io/MyPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://vishvajitjadhav.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvajit09/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Vishvajit1009)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishvajitjadhav01@gmail.com)
@@ -15,7 +17,7 @@ $\color{#2AFFD1}{\textsf{I build backend systems that stay correct under load �
 
 ---
 
-### $\color{#2AFFD1}{\textsf{What I do}}$
+### What I do
 
 I turn complex requirements into clean, reliable software — **Spring Boot backends**, **scalable REST APIs**, and **production LLM/RAG features**. Currently building **Gurucool**, an AI-driven education platform, and a modular **ERP system**.
 
@@ -23,7 +25,7 @@ I turn complex requirements into clean, reliable software — **Spring Boot back
 
 ---
 
-### $\color{#2AFFD1}{\textsf{Tech}}$
+### Tech
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -37,7 +39,7 @@ I turn complex requirements into clean, reliable software — **Spring Boot back
 
 ---
 
-### $\color{#2AFFD1}{\textsf{Featured projects}}$
+### Featured projects
 
 **[Yatrik — Hotel Booking Platform](https://github.com/Vishvajitjadhav/Yatrik-backend)** &nbsp;·&nbsp; `Java` `Spring Boot` `PostgreSQL` `Stripe`
 > Booking backend built for correctness under load — locking to prevent double-booking, dynamic pricing, and idempotent Stripe payments.
