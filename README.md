@@ -10,7 +10,7 @@
 
 I build **reliable, scalable backend systems** with a strong focus on **correctness, performance, and clean APIs**. I enjoy turning messy requirements into software that lasts, shipping production-ready AI features, and learning in public.
 
-I also use AI tools like **Claude** as a serious engineering multiplier — for design, code review, and shipping real features under real constraints. Not vibe coding: disciplined, verified, production development.
+I also use AI tools like **Claude** as a serious engineering multiplier for design, code review, and shipping real features under real constraints. Not vibe coding: disciplined, verified, production development.
 
 <div align="center">
 
